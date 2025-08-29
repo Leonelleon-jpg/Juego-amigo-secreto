@@ -1,4 +1,4 @@
-<h1 align="center"> # Juego del amigo secreto </h1>
+<h1 align="center"> Juego del amigo secreto </h1>
 
 Juego del amigo secreto es una página web la cuál permite agregar nombres de amigos y al momento de usar el botón de sortear te das el nombre de un amigo al azar. Este proyecto está desarrollado con el fin de que si alguien quiere hacer un sorteo del amigo secreto pueda hacerlo en esta página.
 
